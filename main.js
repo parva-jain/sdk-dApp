@@ -1,4 +1,5 @@
 const SDK = require("pan-sdk");
+const Web3 = require("web3")
 const sdk = SDK.createPandoraSDK();
 
 init = async () => {
