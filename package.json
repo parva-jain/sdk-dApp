@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "pan-sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.0"
   }
 }
