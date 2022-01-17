@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pan-sdk": "^1.0.4"
+  }
+}
